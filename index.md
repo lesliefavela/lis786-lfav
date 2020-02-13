@@ -2,6 +2,7 @@
 title: Home
 layout: default
 ---
+
 Here at Xurro, dessert is our passion. We use only the finest and freshest
 ingredients to make our Churros that will fill your belly and warm your heart.
 - Come and visit - your taste buds will thank you!
