@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: default
-body-class: post-welcome
 ---
 About Churros
 Here at Churros, dessert is our passion. We use only the finest and freshest
