@@ -2,12 +2,12 @@
 title: Home
 layout: default
 ---
-About Churros
-Here at Churros, dessert is our passion. We use only the finest and freshest
+<h2>About Hechurro</h2>
+Here at Hechurro, dessert is our passion. We use only the finest and freshest
 ingredients to make our churros that will fill your belly and warm your heart.
 Come and visit - your taste buds will thank you!
-<h2 id="churros-heading">Churros</h2>
-Locations
+
+<h2>Locations</h2>
 - 832 W Randolph St, Chicago, IL 60607 (847) 473-3058
 - 3404 N Southport Ave, Chicago, IL 60657 (773) 678-1267
 - 1028 North Blvd, Oak Park, IL 60301
