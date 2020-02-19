@@ -2,7 +2,6 @@
 title: Home
 layout: default
 ---
-
 ## About
 Here at Hechurro, dessert is our passion. We use only the finest and freshest
 ingredients to make our churros that will fill your belly and warm your heart.
