@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hechurro Cafe
 layout: default
 ---
 ## About Hechurro
