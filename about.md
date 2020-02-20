@@ -10,3 +10,6 @@ Our company prides itself on helping make delicious churros hechos for the custo
 
 
 # Our Valores
+- Churros that are both delicioso and hechos just for you (yes you!) the customer!
+- Churros frescos and buenos ingredients!
+- A fun-loving atmosphere that is open to everyone in the churro-loving community
