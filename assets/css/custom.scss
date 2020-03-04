@@ -17,12 +17,12 @@
 }
 .navbar-toggler{ }
 .navbar a{
-  padding: 15px;
-  padding-left: 10px;
-  padding-right: 10px;
-  font-size: 1.2em;
-  color:#B5651D;
-  font-weight: bold;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 1.1em;
+  color: #B5651D;
+  font-weight: 500;
 }
 li a:hover:not(.active) {
   border-top:3px solid #F8333C;
@@ -31,6 +31,7 @@ li a:hover:not(.active) {
 .active {
   border-top:3px solid #F8333C;
   color:#F8333C;
+  margin-top: 0px;
 }
 a{
   color:#1E2749;
