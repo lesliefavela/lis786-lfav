@@ -25,8 +25,10 @@
   font-weight: bold;
 }
 li a:hover:not(.active) {
-  text-decoration: underline;
-  text-decoration-color: #F8333C;
+  border-top-color: #F8333C;
+  border-top:2px;
+  border-spacing: 2px;
+  
   color:#F8333C;
 }
 .active {
@@ -36,5 +38,5 @@ a{
   color:#1E2749;
 }
 a:hover {
-  color:#B599FF;
+  color:#568203;
 }
