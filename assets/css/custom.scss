@@ -7,8 +7,19 @@
   background-position: center canter;
   height: 400px;
 }
+.navbar{
+  background-color:#FFCC42;
+  justify-content: center;
 
+}
+.navbar-nav{
+  padding-left: 300px;
+  justify-content: center;
+}
+.navbar-toggler{ }
 .navbar a{
-  color:#B5651D;
-  font-size: 1.2em;
+  padding: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 1.5em;
 }
