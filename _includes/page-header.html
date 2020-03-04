@@ -19,13 +19,16 @@
     </nav>
 
 <!-- End Main navbar----------------------------------------------------------------------->
-<div class="parallax"><img src="https://images.unsplash.com/photo-1581911823256-694b27332788?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80" alt=""></div>
-<div style="height:1000px;background-color:red;font-size:36px">
-Scroll Up and Down this page to see the parallax scrolling effect.
-This div is just here to enable scrolling.
-Tip: Try to remove the background-attachment property to remove the scrolling effect.
-</div>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
 
     </header>
+
+    <div class="parallax-wrapper">
+            <div class="content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                   ....
+                   ....
+                   Donec in justo eu ligula semper consequat sed a risus.</p>
+            </div>
+        </div>
