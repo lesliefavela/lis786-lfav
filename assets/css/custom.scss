@@ -25,10 +25,12 @@
   font-weight: bold;
 }
 li a:hover:not(.active) {
-  background-color: #fff;
+  text-decoration: underline;
+  text-decoration-color: #F8333C;
+  color:#F8333C;
 }
 .active {
-  background-color: #4CAF50;
+  color: #568203;
 }
 a{
   color:#1E2749;
