@@ -54,7 +54,7 @@ body {
     color: #ffffff;
     height: 100vh;
     perspective: 1px;
-    transform-style: preserve-2d;
+    transform-style: preserve-3d;
     overflow-x:hidden;
     overflow-y:auto;
 }
@@ -75,12 +75,12 @@ body {
     background-color: #F8333C;
     position: absolute;
     z-index: -1;
-    transform:translateZ(-1px) scale(2);
+    transform:translateZ(-1px) scale(1);
 }
 
 .content {
     margin: 0 auto;
     padding: 50px;
     width: 50%;
-    margin-top:-300px;
+    margin-top:-200px;
 }
