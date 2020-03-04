@@ -25,10 +25,7 @@
   font-weight: bold;
 }
 li a:hover:not(.active) {
-  border-top-color: #F8333C;
-  border-top:2px;
-  border-spacing: 2px;
-  
+  border-top:3px solid #F8333C;
   color:#F8333C;
 }
 .active {
