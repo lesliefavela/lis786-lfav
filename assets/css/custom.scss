@@ -29,7 +29,8 @@ li a:hover:not(.active) {
   color:#F8333C;
 }
 .active {
-  color: #568203;
+  border-top:3px solid #F8333C;
+  color:#F8333C;
 }
 a{
   color:#1E2749;
