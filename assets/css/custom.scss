@@ -18,7 +18,21 @@
 .navbar-toggler{ }
 .navbar a{
   padding: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
   font-size: 1.2em;
   color:#B5651D;
+  font-weight: bold;
 }
-;
+li a:hover:not(.active) {
+  background-color: #fff;
+}
+.active {
+  background-color: #4CAF50;
+}
+a{
+  color:#1E2749;
+}
+a:hover {
+  color:#B599FF;
+}
