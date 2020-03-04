@@ -61,26 +61,25 @@ body {
 .parallax-wrapper {
     width: 100vw;
     height:45vh;
-    padding-top:60vh;
+    padding-top:20vh;
     box-sizing: border-box;
     transform-style: preserve-3d;
 
 }
 .parallax-wrapper::before {
     content:"";
-    width: 110vw;
+    width: 100vw;
     height: 45vh;
-    top:50px;
+    top:0 ;
     left:0;
     background-color: #F8333C;
     position: absolute;
-    background-size: cover;
     z-index: -1;
     transform:translateZ(-1px) scale(2);
 }
 
 .content {
-    margin-top: 0px;
+    margin-top: 0 auto;
     padding: 50px;
     width: 50%;
     text-align: center;
