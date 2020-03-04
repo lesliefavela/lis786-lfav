@@ -54,7 +54,7 @@ body {
     color: #ffffff;
     height: 100vh;
     perspective: 1px;
-    transform-style: preserve-3d;
+    transform-style: preserve-2d;
     overflow-x:hidden;
     overflow-y:auto;
 }
@@ -82,5 +82,5 @@ body {
     margin: 0 auto;
     padding: 50px;
     width: 50%;
-    margin-top:-50px;
+    margin-top:-300px;
 }
