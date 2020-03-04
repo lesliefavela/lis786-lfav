@@ -8,7 +8,7 @@
   height: 400px;
 }
 .navbar{
-  background-color:#FFCC42;
+  background-color:#FFE65E;
   justify-content: center;
 
 }
@@ -34,7 +34,5 @@ li a:hover:not(.active) {
 }
 a{
   color:#1E2749;
-}
-a:hover {
-  color:#568203;
+  padding-right: 10px;
 }
