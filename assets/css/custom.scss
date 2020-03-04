@@ -4,7 +4,7 @@
   background-color: transparent;
   background-size: cover;
   background-position: center center;
-  height: 400px;
+  height: 100vh;
 }
 .navbar{
   background-color:#FFE65E;
@@ -55,7 +55,6 @@ body {
     transform-style: preserve-3d;
     overflow-x:hidden;
     overflow-y:auto;
-    position:relative;
 }
 .parallax-wrapper {
     width: 100vw;
