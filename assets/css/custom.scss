@@ -29,9 +29,13 @@ li a:hover:not(.active) {
   color:#F8333C;
 }
 .active {
+
   border-top:3px solid #F8333C;
   color:#F8333C;
   margin-top: 0px;
+  content: ""; /* This is necessary for the pseudo element to work. */
+    display: block; /* This will put the pseudo element on its own line. */
+    margin: 0 auto; /* This will center the border. */
 }
 a{
   color:#1E2749;
