@@ -2,7 +2,18 @@
 title: Hechurros Cafe
 layout: default
 ---
+<div class="parallax-wrapper">
+        <div class="content">
+              <h1>Deliciosos Churros</h1>
+              <p>Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
+              and dress them your way. Fresh, quality ingredients and no shortcuts.</p>
+              <div class="squiggle">
+                <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
+              </div><br>
+        </div>
+</div>
 
+<img src="\lis786-lfav\assets\images\churrosprint (2).png" alt="mexican pattern">
 ## NUEVO: Ordering Online
 We now have online ordering! You can now order your delicioso churros online and
 pickup in-store. Simply click away on what you would like for your order and we'll
