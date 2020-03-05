@@ -2,7 +2,7 @@
 title: Hechurros Cafe
 layout: default
 ---
-<br> 
+
 ## About Hechurros
 Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
 and dress them your way. Fresh, quality ingredients and no shortcuts.
