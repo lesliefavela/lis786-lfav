@@ -65,7 +65,7 @@ body {
     overflow-y:auto;
 }
 .parallax-wrapper {
-    width: 110vw;
+    width: 190vw;
     height:45vh;
     padding-top:20vh;
     box-sizing: border-box;
@@ -74,7 +74,7 @@ body {
 }
 .parallax-wrapper::before {
     content:"";
-    width: 110vw;
+    width: 190vw;
     height: 45vh;
     top:0 ;
     left:0;
