@@ -9,7 +9,7 @@ layout: default
               and dress them your way. Fresh, quality ingredients and no shortcuts.</p>
               <div class="squiggle">
                 <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
-              </div><br>
+              </div>
         </div>
 </div>
 
