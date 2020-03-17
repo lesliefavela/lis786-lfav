@@ -69,7 +69,7 @@ body {
 }
 .parallax-wrapper {
     width: 190vw;
-    height:45vh;
+    height:40vh;
     padding-top:0vh;
     box-sizing: border-box;
     transform-style: preserve-3d;
@@ -78,7 +78,7 @@ body {
 .parallax-wrapper::before {
     content:"";
     width: 190vw;
-    height: 45vh;
+    height: 40vh;
     top:0 ;
     left:0;
     background-color:#FFE65E;
