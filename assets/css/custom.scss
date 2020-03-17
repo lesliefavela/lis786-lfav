@@ -12,6 +12,7 @@
   background-size: cover;
   background-position: center center;
   height: 500px;
+  padding-top: 10px;
 }
 .navbar{
   background-color:#FFE65E;
@@ -75,7 +76,7 @@ body {
 .parallax-wrapper::before {
     content:"";
     width: 190vw;
-    height: 35vh;
+    height: 45vh;
     top:0 ;
     left:0;
     background-color:#F8333C;
