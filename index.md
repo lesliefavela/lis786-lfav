@@ -35,3 +35,7 @@ function initMap() {
   // The marker, positioned at Uluru
   var marker = new google.maps.Marker({position: uluru, map: map});
 }</script>
+
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDG5kJCf2zAe81qZwwGLbAl-WrfeJAhwU&callback=initMap">
+    </script>
