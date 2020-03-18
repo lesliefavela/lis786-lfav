@@ -37,6 +37,10 @@ li a:hover:not(.active) {
   border-top:3px solid #F8333C;
   color:#F8333C;
 }
+#map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
 .active {
 
   border-top:3px solid #F8333C;

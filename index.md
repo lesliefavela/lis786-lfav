@@ -23,16 +23,14 @@ have it ready for you. No more waiting in line to get to snacking on some churro
 - 60 N Mason Ave Chicago, Illinois(IL), 60644 (773) 287-5757
 - 177 Norman Way Bolingbrook, Illinois(IL), 60440 (630) 972-3006
 - 822 N Michigan Ave, Chicago, IL 60611 (312) 766-0615
+
 <div id="map"></div>
+
     <script>
-
 function initMap() {
-
   var uluru = {lat: -25.344, lng: 131.036};
-
   var map = new google.maps.Map(
       document.getElementById('map'), {zoom: 4, center: uluru});
-
   var marker = new google.maps.Marker({position: uluru, map: map});
 }</script>
 
