@@ -124,3 +124,7 @@ a:hover {
   margin-top: 15px;
 padding-top: 0px;
 }
+@media only screen and (max-width: 600px) {
+  perspective: none;
+  transform-style: flat;
+}
