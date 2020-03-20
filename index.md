@@ -11,7 +11,7 @@ layout: default
                 <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
               </div>
         </div>
-</div>
+</div><br>
 ![mexican pattern](\lis786-lfav\assets\images\churrosprint (2).png)
 ## NUEVO: Ordering Online
 We now have online ordering! You can now order your delicioso churros online and
