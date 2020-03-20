@@ -8,6 +8,7 @@ The very name of this bonito establishment comes from the creative joining of "H
 (meaning made) and "Churros" (meaning delicious sweet treat that you should try &#128521; ).
 Our company prides itself on helping make delicious churros hechos for the customers.
 
+![mexican pattern](\lis786-lfav\assets\images\churrosprint (2).png)
 
 # Our Valores
 - Churros that are both delicioso and hechos just for you (yes you!) the customer!
