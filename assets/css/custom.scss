@@ -151,8 +151,30 @@ padding-top: 0px;
       top:0 ;
       left:0;
       background-color:#FFE65E;
-      position: absolute;
+      position: none;
       z-index: 0;
-      transform:translateZ(-1px) scale(2);
+      transform:none;
   }
+  page-header{
+    max-height: 300px;
+    padding-top: 50px;
+
+  }
+  .project-name {
+    font-size: 2em;
+  }
+  .content{
+    width:40%;
+    padding-left: 10px;
+
+  }
+  #underline{
+    width:100%;
+  }
+  .main-content img {
+    margin-left: -250px;
+    min-width: 200%;
+    max-height: 50%;
+    padding-top: 50px;
+}
 }
