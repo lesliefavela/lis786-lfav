@@ -125,6 +125,34 @@ a:hover {
 padding-top: 0px;
 }
 @media only screen and (max-width: 600px) {
-  perspective: none;
-  transform-style: flat;
+  body {
+      margin: 0;
+      font-size: 26px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: #B5651D;
+      height: 100vh;
+      perspective: 0;
+      transform-style: flat;
+      overflow-x:hidden;
+      overflow-y:auto;
+  }
+  .parallax-wrapper {
+      width: 190vw;
+      height:30vh;
+      padding-top:0vh;
+      box-sizing: border-box;
+      transform-style: flat;
+      margin-top: -200px;
+  }
+  .parallax-wrapper::before {
+      content:"";
+      width: 190vw;
+      height:30vh;
+      top:0 ;
+      left:0;
+      background-color:#FFE65E;
+      position: absolute;
+      z-index: 0;
+      transform:translateZ(-1px) scale(2);
+  }
 }
