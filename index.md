@@ -12,7 +12,7 @@ layout: default
               </div>
         </div>
 </div><br>
-<div class="image">
+<div id="image">
 ![mexican pattern](\lis786-lfav\assets\images\churrosprint (2).png)</div>
 ## NUEVO: Ordering Online
 We now have online ordering! You can now order your delicioso churros online and
