@@ -1,5 +1,6 @@
 ---
 title: Menu
+layout: default
 permalink: /menu/
 
 ---
@@ -7,7 +8,8 @@ permalink: /menu/
 # Menu
 
 El Classico
-![El Classico Churro](https://www.rubios.com/sites/default/files/styles/menu_item_teaser/public/menu/churro.jpg?itok=bCnD5ZJ1)
+
+![El Classico Churro](https://www.rubios.com/sites/default/files/styles/menu_item_teaser/public/menu/churro.jpg?itok=bCnD5ZJ1){:height="700px" width="400px"}
 
 https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg
 
