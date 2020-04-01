@@ -2,11 +2,7 @@
 title: Menu
 layout: default
 permalink: /menu/
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-</style>")
+
 ---
 (setq markdown-xhtml-header-content
       "<style type='text/css'>
