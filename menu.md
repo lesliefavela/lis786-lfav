@@ -9,7 +9,7 @@ permalink: /menu/
 
 El Classico
 
-![El Classico Churro](https://www.rubios.com/sites/default/files/styles/menu_item_teaser/public/menu/churro.jpg?itok=bCnD5ZJ1){:height="200px" width="200px"}
+![El Classico Churro](https://www.rubios.com/sites/default/files/styles/menu_item_teaser/public/menu/churro.jpg?itok=bCnD5ZJ1){:width="40%"}
 
 https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg
 
