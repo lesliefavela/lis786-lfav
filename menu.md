@@ -9,7 +9,7 @@ a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 img{width:30%;}
 </style>
-<img src="\lis786-lfav\assets\images\churrosprint (2).png" alt="drawing" width="200"/>
+<img src="\lis786-lfav\assets\images\churrosprint (2).png" alt="drawing" width="200">
 
 # Menu
 
