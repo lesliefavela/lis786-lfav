@@ -4,7 +4,6 @@ layout: default
 permalink: /menu/
 
 ---
-<img src="\lis786-lfav\assets\images\churrosprint (2).png" alt="drawing" width="200">
 
 # Menu
 
