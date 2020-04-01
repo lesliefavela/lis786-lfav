@@ -4,12 +4,11 @@ layout: default
 permalink: /menu/
 
 ---
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
+<style type='text/css'>
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 img{width:30%;}
-</style>")
+</style>
 ![mexican pattern](\lis786-lfav\assets\images\churrosprint (2).png)
 # Menu
 
