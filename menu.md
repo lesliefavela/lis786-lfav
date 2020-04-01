@@ -2,7 +2,18 @@
 title: Menu
 layout: default
 permalink: /menu/
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>")
 ---
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+img{width:30%;}
+</style>")
 ![mexican pattern](\lis786-lfav\assets\images\churrosprint (2).png)
 # Menu
 
@@ -17,13 +28,16 @@ Churr-way Churro
 Churritos
 ![Churritos](https://www.cookingclassy.com/wp-content/uploads/2013/05/churro-bites6+srgb.-426x500.jpg)
 
-
 Churro sandwich
-https://media1.popsugar-assets.com/files/thumbor/nLfhxa4OyPyTGfVzDNqcJYDJxj4/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2014/08/06/849/n/1922195/d9089d1be38be8bf_Churro_Ice_Cream_Sandwich_WIDE/i/Churro-Ice-Cream-Sandwich-Recipe.jpg
+![Churro Sandwich](https://media1.popsugar-assets.com/files/thumbor/nLfhxa4OyPyTGfVzDNqcJYDJxj4/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2014/08/06/849/n/1922195/d9089d1be38be8bf_Churro_Ice_Cream_Sandwich_WIDE/i/Churro-Ice-Cream-Sandwich-Recipe.jpg)
+
 El Domingo
-https://assets3.thrillist.com/v1/image/1426137/size/tmg-article_default_mobile.jpg
+![El Domingo](https://assets3.thrillist.com/v1/image/1426137/size/tmg-article_default_mobile.jpg)
+
 Fuego Churro
-https://images-gmi-pmc.edge-generalmills.com/2ed6cebd-5d5f-417b-a676-547191a56022.jpg
+![Fuego Churro](https://images-gmi-pmc.edge-generalmills.com/2ed6cebd-5d5f-417b-a676-547191a56022.jpg)
+
 Chonas
 https://www.dessarts.com/wp-content/uploads/2019/04/Baked-Churros_600px-480x480.jpg
+
 https://i.pinimg.com/originals/04/66/65/0466655a11d1c0c8759d00e7f519aa40.jpg
