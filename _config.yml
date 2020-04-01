@@ -1,2 +1,6 @@
 title: Hechurro Cafe
 theme: jekyll-theme-cayman
+collections: 
+  churro_cafe:
+    output: true
+    layout: churro
