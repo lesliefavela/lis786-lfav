@@ -4,7 +4,7 @@ layout: default
 permalink: /menu/
 
 ---
-{% for churros in site.churro_cafe %}
-{{ churros.title }}
-{{ churros.content }}
+{% for churro in site.churro_cafe %}
+{{ churro.title }}
+{{ churro.content }}
 {{% endfor %}}
