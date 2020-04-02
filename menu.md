@@ -22,9 +22,9 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem;">
-            <img src="https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg" class="img-card-top">
+            <img src="https://images.squarespace-cdn.com/content/v1/5b52cc3caf20965354771a48/1570593512566-O7KS3KK8Z73N8LWM9Y8P/ke17ZwdGBToddI8pDm48kCX-V5vw-8h9IBXN10-_8XN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4Wyba38KfG317vYluk45_zZdtnDCZTLKcP2mivxmYi50xvY5saIGKMgOza9mH4XA/DSC03586.jpg?format=1500w" class="img-card-top">
             <div class="card-body">
-              <h5 class="card-title">El Classico</h5>
+              <h5 class="card-title">Churr-way Churros</h5>
             </div>
           </div>
         </div>
@@ -33,9 +33,9 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem;">
-            <img src="https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg" class="img-card-top">
+            <img src="https://www.cookingclassy.com/wp-content/uploads/2013/05/churro-bites6+srgb.-426x500.jpg" class="img-card-top">
             <div class="card-body">
-              <h5 class="card-title">El Classico</h5>
+              <h5 class="card-title">Churritos</h5>
             </div>
           </div>
         </div>
@@ -44,24 +44,10 @@ permalink: /menu/
 </div>
 
 
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg" alt="Card image cap">
-  <div class="card-body">
-    <p class="card-text">El Classico</p>
-  </div>
-</div>
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="https://images.squarespace-cdn.com/content/v1/5b52cc3caf20965354771a48/1570593512566-O7KS3KK8Z73N8LWM9Y8P/ke17ZwdGBToddI8pDm48kCX-V5vw-8h9IBXN10-_8XN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4Wyba38KfG317vYluk45_zZdtnDCZTLKcP2mivxmYi50xvY5saIGKMgOza9mH4XA/DSC03586.jpg?format=1500w" alt="Card image cap">
-  <div class="card-body">
-    <p class="card-text">Churr-way Churro</p>
-  </div>
-</div>
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="https://www.cookingclassy.com/wp-content/uploads/2013/05/churro-bites6+srgb.-426x500.jpg" alt="Card image cap">
-  <div class="card-body">
-    <p class="card-text">Churritos</p>
-  </div>
-</div>
+
+
+
+
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="https://media1.popsugar-assets.com/files/thumbor/nLfhxa4OyPyTGfVzDNqcJYDJxj4/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2014/08/06/849/n/1922195/d9089d1be38be8bf_Churro_Ice_Cream_Sandwich_WIDE/i/Churro-Ice-Cream-Sandwich-Recipe.jpg" alt="Card image cap">
   <div class="card-body">
