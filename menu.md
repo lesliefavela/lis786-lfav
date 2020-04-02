@@ -8,36 +8,16 @@ permalink: /menu/
 # Menu
 <div class="container-fluid content-row">
     <div class="row">
-
-        <div class="col-sm-12 col-lg-6">
-            <div class="card h-100">
-            <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="https://www.rubios.com/sites/default/files/styles/menu_item_teaser/public/menu/churro.jpg?itok=bCnD5ZJ1" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">El Classico</p>
-              </div>
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem;">
+            <img src="https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg" class="img-card-top">
+            <div class="card-body">
+              <h5 class="card-title">El Classico</h5>
             </div>
-            </div>
+          </div>
         </div>
-        <div class="col-sm-12 col-lg-6">
-            <div class="card h-100">
-            <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="https://www.rubios.com/sites/default/files/styles/menu_item_teaser/public/menu/churro.jpg?itok=bCnD5ZJ1" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">El Classico</p>
-              </div>
-            </div>
-            </div>
-        </div><div class="col-sm-12 col-lg-6">
-            <div class="card h-100">
-            <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="https://www.rubios.com/sites/default/files/styles/menu_item_teaser/public/menu/churro.jpg?itok=bCnD5ZJ1" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">El Classico</p>
-              </div>
-            </div>
-            </div>
-        </div>
+      </div>
     </div>
 </div>
 
