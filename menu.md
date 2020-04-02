@@ -110,7 +110,7 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:24rem;">
-            <img src="https://images-gmi-pmc.edge-generalmills.com/2ed6cebd-5d5f-417b-a676-547191a56022.jpg" class="img-card-top" style="height:19rem;">
+            <img src="https://i.ytimg.com/vi/5bEFE6Mw-fM/maxresdefault.jpg" class="img-card-top" style="height:19rem;">
             <div class="card-body">
               <h5 class="card-title">Fuego Churro</h5>
             </div>
