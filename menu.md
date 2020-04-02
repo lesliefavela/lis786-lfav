@@ -120,7 +120,7 @@ permalink: /menu/
     </div>
 </div>
 
-<h3 class="text-center">Snacks</h3><hl>
+<h3 class="text-center">Drinks</h3><hl>
 
 <div class="container-fluid content-row">
     <div class="row">
