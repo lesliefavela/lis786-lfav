@@ -129,7 +129,7 @@ permalink: /menu/
           <div class="card m-2" style="width:16rem; height:24rem;">
             <img src="https://www.simplyorganic.com/community/images/made/e6aa7c3426f03146/organic-dia-de-los-muertos-hot-cocoa-drink-recipe-540x54024_540_540_s_c1.jpg" class="img-card-top" style="height:19rem;">
             <div class="card-body">
-              <h5 class="card-title">Chonas</h5>
+              <h5 class="card-title">Champurrado</h5>
             </div>
           </div>
         </div>
@@ -138,9 +138,9 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:24rem;">
-            <img src="https://i.pinimg.com/originals/04/66/65/0466655a11d1c0c8759d00e7f519aa40.jpg" class="img-card-top" style="height:19rem;">
+            <img src="https://www.cookingclassy.com/wp-content/uploads/2019/04/horchata-6.jpg" class="img-card-top" style="height:19rem;">
             <div class="card-body">
-              <h5 class="card-title">Churri-bits</h5>
+              <h5 class="card-title">Horchata</h5>
             </div>
           </div>
         </div>
@@ -149,9 +149,9 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:24rem;">
-            <img src="https://www.confessionsofacookbookqueen.com/wp-content/uploads/2016/04/IMG_7429.jpg" class="img-card-top" style="height:19rem;">
+            <img src="https://d3926qxcw0e1bh.cloudfront.net/post_photos/5a/b7/5ab786ecf1b7b5a0dba379c034a20586.jpeg.max578.jpeg" class="img-card-top" style="height:19rem;">
             <div class="card-body">
-              <h5 class="card-title">Churri-cake</h5>
+              <h5 class="card-title">Aguas Frescas</h5>
             </div>
           </div>
         </div>
