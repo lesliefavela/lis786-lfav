@@ -10,7 +10,7 @@ permalink: /menu/
     <div class="row">
       <div class="col-sm-4">
         <div class="col-sm-3">
-          <div class="card m-2" style="width:16rem;">
+          <div class="card m-2" style="width:16rem; height:25rem;">
             <img src="https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg" class="img-card-top">
             <div class="card-body">
               <h5 class="card-title">El Classico</h5>
@@ -21,8 +21,8 @@ permalink: /menu/
 
       <div class="col-sm-4">
         <div class="col-sm-3">
-          <div class="card m-2" style="width:16rem;">
-            <img src="https://images.squarespace-cdn.com/content/v1/5b52cc3caf20965354771a48/1570593512566-O7KS3KK8Z73N8LWM9Y8P/ke17ZwdGBToddI8pDm48kCX-V5vw-8h9IBXN10-_8XN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4Wyba38KfG317vYluk45_zZdtnDCZTLKcP2mivxmYi50xvY5saIGKMgOza9mH4XA/DSC03586.jpg?format=1500w" class="img-card-top">
+          <div class="card m-2" style="width:16rem; height:25rem;">
+            <img src="https://static.wixstatic.com/media/631ffc_5b28b79ad786466aa3b42e6c964bd701~mv2.png/v1/fit/w_500,h_500,q_90/file.png" class="img-card-top">
             <div class="card-body">
               <h5 class="card-title">Churr-way Churros</h5>
             </div>
