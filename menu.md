@@ -90,12 +90,22 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:24rem;">
-            <img class="card-img-top" src="https://www.dessarts.com/wp-content/uploads/2019/04/Baked-Churros_600px-480x480.jpg" alt="Card image cap">
+            <img class="card-img-top" src="https://www.dessarts.com/wp-content/uploads/2019/04/Baked-Churros_600px-480x480.jpg" class="img-card-top"  style="height:19rem;">
             <div class="card-body">
-              <p class="card-text">Chonas</p>
+              <h5 class="card-text">Chonas</h5>
             </div>
           </div>
         </div>
+
+        <div class="col-sm-4">
+          <div class="col-sm-3">
+            <div class="card m-2" style="width:16rem; height:24rem;">
+              <img class="card-img-top" src="https://i.pinimg.com/originals/04/66/65/0466655a11d1c0c8759d00e7f519aa40.jpg" class="img-card-top"  style="height:19rem;">
+              <div class="card-body">
+                <h5 class="card-text">Churri-bites</h5>
+              </div>
+            </div>
+          </div>
     </div>
 </div>
 
