@@ -10,15 +10,20 @@ permalink: /menu/
     <div class="row">
       <div class="col-sm-4">
         <div class="col-sm-3">
-          <div class="card m-2" style="width:16rem; height:25rem;">
+          <div class="card m-2" style="width:16rem; height:20rem;">
             <img src="https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg" class="img-card-top">
+            <div class="card-img-overlay">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text">Last updated 3 mins ago</p>
+  </div>
           </div>
         </div>
       </div>
 
       <div class="col-sm-4">
         <div class="col-sm-3">
-          <div class="card m-2" style="width:16rem; height:25rem;">
+          <div class="card m-2" style="width:16rem; height:20rem;">
             <img src="https://www.chicagovisitors.guide/wp-content/uploads/2018/04/chicago-visitors-guide-churro-close-up.jpg" class="img-card-top">
           </div>
         </div>
@@ -26,7 +31,7 @@ permalink: /menu/
 
       <div class="col-sm-4">
         <div class="col-sm-3">
-          <div class="card m-2" style="width:16rem; height:25rem;">
+          <div class="card m-2" style="width:16rem; height:20rem;">
             <img src="https://www.cookingclassy.com/wp-content/uploads/2013/05/churro-bites6+srgb.-426x500.jpg" class="img-card-top">
             <div class="card-body">
               <h5 class="card-title">Churritos</h5>
