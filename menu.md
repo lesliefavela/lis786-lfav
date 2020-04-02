@@ -32,7 +32,7 @@ permalink: /menu/
 
       <div class="col-sm-4">
         <div class="col-sm-3">
-          <div class="card m-2" style="width:16rem; height 25rem;">
+          <div class="card m-2" style="width:16rem; height:25rem;">
             <img src="https://www.cookingclassy.com/wp-content/uploads/2013/05/churro-bites6+srgb.-426x500.jpg" class="img-card-top">
             <div class="card-body">
               <h5 class="card-title">Churritos</h5>
