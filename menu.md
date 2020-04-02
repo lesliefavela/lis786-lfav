@@ -18,6 +18,28 @@ permalink: /menu/
           </div>
         </div>
       </div>
+
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem;">
+            <img src="https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg" class="img-card-top">
+            <div class="card-body">
+              <h5 class="card-title">El Classico</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem;">
+            <img src="https://roaminghunger.com/img/trucks/original/23659/5c8c0b71-1174-4361-92f8-5a1e46204482.jpg" class="img-card-top">
+            <div class="card-body">
+              <h5 class="card-title">El Classico</h5>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 </div>
 
