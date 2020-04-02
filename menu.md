@@ -119,3 +119,42 @@ permalink: /menu/
       </div>
     </div>
 </div>
+
+<h3 class="text-center">Snacks</h3><hl>
+
+<div class="container-fluid content-row">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem; height:24rem;">
+            <img src="https://www.simplyorganic.com/community/images/made/e6aa7c3426f03146/organic-dia-de-los-muertos-hot-cocoa-drink-recipe-540x54024_540_540_s_c1.jpg" class="img-card-top" style="height:19rem;">
+            <div class="card-body">
+              <h5 class="card-title">Chonas</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem; height:24rem;">
+            <img src="https://i.pinimg.com/originals/04/66/65/0466655a11d1c0c8759d00e7f519aa40.jpg" class="img-card-top" style="height:19rem;">
+            <div class="card-body">
+              <h5 class="card-title">Churri-bits</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem; height:24rem;">
+            <img src="https://www.confessionsofacookbookqueen.com/wp-content/uploads/2016/04/IMG_7429.jpg" class="img-card-top" style="height:19rem;">
+            <div class="card-body">
+              <h5 class="card-title">Churri-cake</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
