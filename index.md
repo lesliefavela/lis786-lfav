@@ -25,16 +25,36 @@ have it ready for you. No more waiting in line to get to snacking on some churro
 - 177 Norman Way Bolingbrook, Illinois(IL), 60440 (630) 972-3006
 - 822 N Michigan Ave, Chicago, IL 60611 (312) 766-0615
 
-<div id="map"></div>
-
-    <script>
-function initMap() {
-  var uluru = {lat: -25.344, lng: 131.036};
-  var map = new google.maps.Map(
-      document.getElementById('map'), {zoom: 4, center: uluru});
-  var marker = new google.maps.Marker({position: uluru, map: map});
-}</script>
-
-<script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDG5kJCf2zAe81qZwwGLbAl-WrfeJAhwU&callback=initMap">
-    </script>
+<div class="card card-nav-tabs card-plain">
+                <div class="card-header card-header-danger">
+                  <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
+                  <div class="nav-tabs-navigation">
+                    <div class="nav-tabs-wrapper">
+                      <ul class="nav nav-tabs" data-tabs="tabs">
+                        <li class="nav-item">
+                          <a class="nav-link" href="#home" data-toggle="tab">Home</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#updates" data-toggle="tab">Updates<div class="ripple-container"></div></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link active show" href="#history" data-toggle="tab">History<div class="ripple-container"></div></a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-body ">
+                  <div class="tab-content text-center">
+                    <div class="tab-pane" id="home">
+                      <p>I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. So when you get something that has the name Kanye West on it, it’s supposed to be pushing the furthest possibilities. I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus.</p>
+                    </div>
+                    <div class="tab-pane" id="updates">
+                      <p> I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. </p>
+                    </div>
+                    <div class="tab-pane active show" id="history">
+                      <p> I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
