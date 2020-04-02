@@ -22,7 +22,7 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:25rem;">
-            <img src="https://static.wixstatic.com/media/631ffc_5b28b79ad786466aa3b42e6c964bd701~mv2.png/v1/fit/w_500,h_500,q_90/file.png" class="img-card-top">
+            <img src="https://www.chicagovisitors.guide/wp-content/uploads/2018/04/chicago-visitors-guide-churro-close-up.jpg" class="img-card-top">
             <div class="card-body">
               <h5 class="card-title">Churr-way Churros</h5>
             </div>
@@ -32,7 +32,7 @@ permalink: /menu/
 
       <div class="col-sm-4">
         <div class="col-sm-3">
-          <div class="card m-2" style="width:16rem;">
+          <div class="card m-2" style="width:16rem; height 25rem;">
             <img src="https://www.cookingclassy.com/wp-content/uploads/2013/05/churro-bites6+srgb.-426x500.jpg" class="img-card-top">
             <div class="card-body">
               <h5 class="card-title">Churritos</h5>
