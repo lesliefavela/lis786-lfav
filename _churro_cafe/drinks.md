@@ -20,7 +20,7 @@ category: drinks
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:14rem; height:22rem;">
-            <img src="https://www.cookingclassy.com/wp-content/uploads/2019/04/horchata-6.jpg" class="img-card-top" style="height:19rem;">
+            <img src="https://www.cookingclassy.com/wp-content/uploads/2019/04/horchata-6.jpg" class="img-card-top" style="height:17rem;">
             <div class="card-body">
               <h5 class="card-title">Horchata</h5>
             </div>
