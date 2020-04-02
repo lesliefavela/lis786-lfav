@@ -72,9 +72,9 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:24rem;">
-            <img src="https://images-gmi-pmc.edge-generalmills.com/2ed6cebd-5d5f-417b-a676-547191a56022.jpg" class="img-card-top" style="height:19rem;">
+            <img src="https://lh3.googleusercontent.com/proxy/6nTc65rJI9L-iwgYU3PFeI-qsuh8nhJlcJoLGbFXXMIpqx_3k8o11TkPcuuqbIpSGHGeLdDVw51brcno4kQE_r5Aqg-f5BVw59D71iZiixToOduCDIjqOWO8cv3Tiyroe3Er6A" class="img-card-top" style="height:19rem;">
             <div class="card-body">
-              <h5 class="card-title">Fuego Churro</h5>
+              <h5 class="card-title">Sal Churro</h5>
             </div>
           </div>
         </div>
@@ -112,7 +112,7 @@ permalink: /menu/
           <div class="card m-2" style="width:16rem; height:24rem;">
             <img src="https://www.confessionsofacookbookqueen.com/wp-content/uploads/2016/04/IMG_7429.jpg" class="img-card-top" style="height:19rem;">
             <div class="card-body">
-              <h5 class="card-title">Fuego Churro</h5>
+              <h5 class="card-title">Churri-cake</h5>
             </div>
           </div>
         </div>
