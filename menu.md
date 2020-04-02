@@ -6,7 +6,7 @@ permalink: /menu/
 ---
 
 # Menu
-<p class="text-center">Snacks</p><hl>
+<h3 class="text-center">Snacks</h3><hl>
 <div class="container-fluid content-row">
     <div class="row">
       <div class="col-sm-4">
@@ -50,7 +50,7 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:24rem;">
-            <img src="https://media1.popsugar-assets.com/files/thumbor/nLfhxa4OyPyTGfVzDNqcJYDJxj4/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2014/08/06/849/n/1922195/d9089d1be38be8bf_Churro_Ice_Cream_Sandwich_WIDE/i/Churro-Ice-Cream-Sandwich-Recipe.jpg" class="img-card-top" style="height:19rem;">
+            <img src="https://www.planetajoy.com/upload/image/673x6731404243949_churroicecream.jpg" class="img-card-top" style="height:19rem;">
             <div class="card-body">
               <h5 class="card-title">Churro Sandwich</h5>
             </div>
@@ -61,7 +61,7 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:24rem;">
-            <img src="https://assets3.thrillist.com/v1/image/1426137/size/tmg-article_default_mobile.jpg" class="img-card-top" style="height:19rem;">
+            <img src="https://res.cloudinary.com/popmenu/image/upload/c_limit,f_auto,h_1440,q_auto,w_1440/v5ui54daak4bnbfp4fob.jpg" class="img-card-top" style="height:19rem;">
             <div class="card-body">
               <h5 class="card-title">El Domingo</h5>
             </div>
@@ -110,7 +110,7 @@ permalink: /menu/
       <div class="col-sm-4">
         <div class="col-sm-3">
           <div class="card m-2" style="width:16rem; height:24rem;">
-            <img src="https://i.ytimg.com/vi/5bEFE6Mw-fM/maxresdefault.jpg" class="img-card-top" style="height:19rem;">
+            <img src="https://www.confessionsofacookbookqueen.com/wp-content/uploads/2016/04/IMG_7429.jpg" class="img-card-top" style="height:19rem;">
             <div class="card-body">
               <h5 class="card-title">Fuego Churro</h5>
             </div>
