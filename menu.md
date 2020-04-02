@@ -44,24 +44,60 @@ permalink: /menu/
 </div>
 
 
+<div class="container-fluid content-row">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem;">
+            <img src="https://media1.popsugar-assets.com/files/thumbor/nLfhxa4OyPyTGfVzDNqcJYDJxj4/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2014/08/06/849/n/1922195/d9089d1be38be8bf_Churro_Ice_Cream_Sandwich_WIDE/i/Churro-Ice-Cream-Sandwich-Recipe.jpg" class="img-card-top">
+            <div class="card-body">
+              <h5 class="card-title">El Classico</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem;">
+            <img src="https://assets3.thrillist.com/v1/image/1426137/size/tmg-article_default_mobile.jpg" class="img-card-top">
+            <div class="card-body">
+              <h5 class="card-title">Churr-way Churros</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="col-sm-3">
+          <div class="card m-2" style="width:16rem;">
+            <img src="https://images-gmi-pmc.edge-generalmills.com/2ed6cebd-5d5f-417b-a676-547191a56022.jpg" class="img-card-top">
+            <div class="card-body">
+              <h5 class="card-title">Churritos</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
 
 
 
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="https://media1.popsugar-assets.com/files/thumbor/nLfhxa4OyPyTGfVzDNqcJYDJxj4/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2014/08/06/849/n/1922195/d9089d1be38be8bf_Churro_Ice_Cream_Sandwich_WIDE/i/Churro-Ice-Cream-Sandwich-Recipe.jpg" alt="Card image cap">
+  <img class="card-img-top" src="" alt="Card image cap">
   <div class="card-body">
     <p class="card-text">Churro Sandwich</p>
   </div>
 </div>
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="https://assets3.thrillist.com/v1/image/1426137/size/tmg-article_default_mobile.jpg" alt="Card image cap">
+  <img class="card-img-top" src="" alt="Card image cap">
   <div class="card-body">
     <p class="card-text">El Domingo</p>
   </div>
 </div>
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="https://images-gmi-pmc.edge-generalmills.com/2ed6cebd-5d5f-417b-a676-547191a56022.jpg" alt="Card image cap">
+  <img class="card-img-top" src="" alt="Card image cap">
   <div class="card-body">
     <p class="card-text">Fuego Churro</p>
   </div>
