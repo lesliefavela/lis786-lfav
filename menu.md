@@ -92,6 +92,6 @@ permalink: /menu/
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="https://i.pinimg.com/originals/04/66/65/0466655a11d1c0c8759d00e7f519aa40.jpg" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">Chonas</p>
+    <p class="card-text">Churri-bites</p>
   </div>
 </div>
