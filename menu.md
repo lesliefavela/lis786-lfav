@@ -6,7 +6,7 @@ permalink: /menu/
 ---
 
 # Menu
-<p class="text-center">Snacks</p>
+<p class="text-center">Snacks</p><hl>
 <div class="container-fluid content-row">
     <div class="row">
       <div class="col-sm-4">
