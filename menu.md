@@ -7,7 +7,7 @@ permalink: /menu/
 
 # Menu
 <br>
-### Snacks
+#### Snacks
 <div class="container-fluid content-row">
     <div class="row">
       <div class="col-sm-4">
