@@ -12,13 +12,13 @@ permalink: /menu/
                     <div class="nav-tabs-wrapper">
                       <ul class="nav nav-tabs" data-tabs="tabs">
                         <li class="nav-item">
-                          <a class="nav-link" href="#all" data-toggle="tab">All</a>
+                          <a class="nav-link active show" href="#all" data-toggle="tab">All</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" href="#snacks" data-toggle="tab">Snacks<div class="ripple-container"></div></a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link active show" href="#drinks" data-toggle="tab">Drinks<div class="ripple-container"></div></a>
+                          <a class="nav-link" href="#drinks" data-toggle="tab">Drinks<div class="ripple-container"></div></a>
                         </li>
                       </ul>
                     </div>
