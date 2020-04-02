@@ -6,7 +6,7 @@ permalink: /menu/
 ---
 
 <div class="card card-nav-tabs card-plain">
-                <div class="card-header card-header-success">
+                <div class="card-header card-header-success" style="width:600px;">
                   <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
                   <div class="nav-tabs-navigation">
                     <div class="nav-tabs-wrapper">
