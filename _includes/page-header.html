@@ -4,20 +4,16 @@
 
       <ul class="nav justify-content-center">
         <li class="nav-item">
-          <a class="nav-item nav-link " href="{{ '/' | relative_url }}" {%
-if page.url == page.permalink %}active{% endif %}>Home <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link " href="{{ '/' | relative_url }}" {% if page.url == page.permalink %}active{% endif %}>Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-item nav-link" href="{{ '/menu/' | relative_url }}" {%
-if page.url == page.permalink %}active{% endif %}>Menu</a>
+          <a class="nav-item nav-link" href="{{ '/menu/' | relative_url }}" {% if page.url == page.permalink %}active{% endif %}>Menu</a>
         </li>
         <li class="nav-item">
-          <a class="nav-item nav-link" href="#" {%
-if page.url == page.permalink %}active{% endif %}>Order</a>
+          <a class="nav-item nav-link" href="#" {% if page.url == page.permalink %}active{% endif %}>Order</a>
         </li>
         <li class="nav-item">
-          <a class="nav-item nav-link" href="{{ '/about/' | relative_url }}" {%
-if page.url == page.permalink %}active{% endif %}>About</a>
+          <a class="nav-item nav-link" href="{{ '/about/' | relative_url }}" {% if page.url == page.permalink %}active{% endif %}>About</a>
         </li>
       </ul>
     </nav>
