@@ -27,10 +27,42 @@ permalink: /menu/
                 <div class="card-body ">
                   <div class="tab-content text-center">
                     <div class="tab-pane active show" id="all">
-                      {% for churro in site.churro_cafe %}      
-                        <h2>{{ churro.title }}</h2>
-                        {{ churro.content }}
-                      {% endfor %}
+                        {% for churro in site.churro_cafe %}   
+                    <div class="container-fluid content-row">
+                        <div class="row">
+                          <div class="col-sm-4">
+                            <div class="col-sm-3">
+                              <div class="card m-2" style="width:14rem; height:22rem;">
+                              {{ churro.title }}
+                              {{ churro.content }}
+
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-sm-4">
+                            <div class="col-sm-3">
+                              <div class="card m-2" style="width:14rem; height:22rem;">
+                              {{ churro.title }}
+                              {{ churro.content }}
+
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-sm-4">
+                            <div class="col-sm-3">
+                              <div class="card m-2" style="width:14rem; height:22rem;">
+                              {{ churro.title }}
+                              {{ churro.content }}
+
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+              
+                        {% endfor %}
                     </div>
                     <div class="tab-pane" id="snacks">
 
@@ -78,9 +110,7 @@ permalink: /menu/
                                     <div class="card m-2" style="width:14rem; height:22rem;">
                                     {{ churro.title }}
                                     {{ churro.content }}
-                                      <div class="card-body">
-                                        <h5 class="card-title">Champurrado</h5>
-                                      </div>
+
                                     </div>
                                   </div>
                                 </div>
@@ -107,7 +137,7 @@ permalink: /menu/
                                 </div>
                               </div>
                           </div>
-                            {% endfor %}y
+                            {% endfor %}
                     </div>
                     <div class="tab-pane active show" id="drinks">
 
