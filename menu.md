@@ -40,15 +40,16 @@ permalink: /menu/
                              </div>  
                     </div>
                     <div class="tab-pane" id="snacks">
-                      {% if churro.categories contains snacks %}
+
                           {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
+                              {% if churro.categories contains snacks %}
                           {% for churro in sorted_snacks %}
 
                                   <h2>{{ churro.title }}</h2>
                                   {{ churro.content }}
-
+  {% endif %}
                           {% endfor %}
-                              {% endif %}
+
                     </div>
                     <div class="tab-pane" id="drinks">
 
