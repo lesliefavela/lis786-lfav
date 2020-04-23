@@ -11,7 +11,7 @@ permalink: /menu/
                   <div class="nav-tabs-navigation">
                     <div class="nav-tabs-wrapper">
                       <ul class="nav nav-tabs" data-tabs="tabs">
-                        <li class="nav-item">
+                        <li class="nav-item active">
                           <a class="nav-link active" href="#all" data-toggle="tab">All</a>
                         </li>
                         <li class="nav-item">
