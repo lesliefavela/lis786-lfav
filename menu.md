@@ -28,7 +28,7 @@ permalink: /menu/
                   <div class="tab-content text-center">
                     <div class="tab-pane active show" id="all">
                       {% for churro in site.churro_cafe %}   
-                        <div class="col-sm-4">
+
                           <div class="col-sm-3">
                             <div class="card m-2" style="width:14rem; height:22rem;">
                             <h2>{{ churro.title }}</h2>
