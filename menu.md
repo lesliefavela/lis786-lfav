@@ -28,7 +28,6 @@ permalink: /menu/
                   <div class="tab-content text-center">
                     <div class="tab-pane active show" id="all">
                     <div class="container-fluid content-row">
-                        <div class="row">
 
                               {% for churro in site.churro_cafe %}   
                                   <div class="col-sm-3">
@@ -38,13 +37,15 @@ permalink: /menu/
                                     </div>
                                   </div>      
                                 {% endfor %}
-                             </div>  </div>
+                             </div>  
                     </div>
                     <div class="tab-pane" id="snacks">
                           {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
                           {% for churro in sorted_snacks %}
-                            <h2>{{ churro.title }}</h2>
-                            {{ churro.content }}
+                              {% if churro.categories contains snacks %}
+                                  <h2>{{ churro.title }}</h2>
+                                  {{ churro.content }}
+                            {% endif %}
                           {% endfor %}
                     </div>
                     <div class="tab-pane" id="drinks">
