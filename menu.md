@@ -29,7 +29,7 @@ permalink: /menu/
                     <div class="tab-pane active show" id="all">
                     <div class="container-fluid content-row">
                         <div class="row">
-                          <div class="col-sm-4">
+
                               {% for churro in site.churro_cafe %}   
                                   <div class="col-sm-3">
                                     <div class="card m-2" style="width:14rem; height:22rem;">
@@ -38,7 +38,7 @@ permalink: /menu/
                                     </div>
                                   </div>      
                                 {% endfor %}
-                            </div>  </div>  </div>
+                             </div>  </div>
                     </div>
                     <div class="tab-pane" id="snacks">
 
