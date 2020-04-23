@@ -41,7 +41,11 @@ permalink: /menu/
                              </div>  </div>
                     </div>
                     <div class="tab-pane" id="snacks">
-
+                          {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
+                          {% for churro in sorted_snacks %}
+                            <h2>{{ churro.title }}</h2>
+                            {{ churro.content }}
+                          {% endfor %}
                     </div>
                     <div class="tab-pane" id="drinks">
 
