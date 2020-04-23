@@ -43,7 +43,7 @@ permalink: /menu/
 
                           {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
                             {% for churro in sorted_snacks %}
-                                {% if churro.categories contains contains 'snacks' %}
+                                {% if churro.categories contains 'snacks' %}
                                     <h2>{{ churro.title }}</h2>
                                     {{ churro.content }}
                                 {% endif %}  
