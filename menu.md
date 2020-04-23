@@ -71,7 +71,7 @@ permalink: /menu/
                                 </div>
                               </div>
                           </div>
-                            {% endfor %}
+                            {% endfor %}y
                     </div>
                     <div class="tab-pane active show" id="drinks">
 
