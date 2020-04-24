@@ -70,6 +70,8 @@ body {
     overflow-x:hidden;
     overflow-y:auto;
 }
+
+
 .parallax-wrapper {
     width: 190vw;
     height:30vh;
@@ -95,6 +97,7 @@ body {
     margin-top:-250px;
     align-content: center;
 }
+
 a {
   background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
 	background-position: 0 100%;
@@ -133,6 +136,32 @@ a:hover {
 .main-content{
   margin-top: 15px;
 padding-top: 0px;
+}
+
+footer{
+  background-color:#E03378;
+  height:auto;
+  width: 100%;
+  padding-bottom: 20px;
+  align-content: center;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 @media only screen and (max-width: 600px) {
   body {
