@@ -4,7 +4,7 @@ layout: default
 permalink: /about/
 ---
 <br>
-<span style="text-align:center;"
+<span style="text-align:center;">
 # Who We Are
   The very name of this bonito establishment comes from the creative joining of "Hecho"
   (meaning made) and "Churros" (meaning delicious sweet treat that you should try &#128521; ).
