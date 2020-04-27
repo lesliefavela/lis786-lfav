@@ -76,6 +76,11 @@ body {
     margin-top:-250px;
     align-content: center;
 }
+.crop{
+  object-fit: cover;
+  width: 300px;
+  sheight: 337px;
+}
 
 a {
   background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
