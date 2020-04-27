@@ -3,9 +3,9 @@ title: Hechurros Cafe
 layout: default
 ---
 <br>  
-              <h1>Deliciosos Churros</h1>
-              <p>Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
-              and dress them your way. Fresh, quality ingredients and no shortcuts.</p>
+# Deliciosos Churros
+Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
+and dress them your way. Fresh, quality ingredients and no shortcuts.
                 <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
 
 
