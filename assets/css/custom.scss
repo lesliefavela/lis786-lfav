@@ -140,6 +140,9 @@ footer{
   align-content: center;
   color: #FFE65E;
 }
+.social {
+  text-align: center;
+}
 .fa {
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
@@ -148,7 +151,6 @@ footer{
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
 .fa {
   padding: 10px;
   font-size: 40px;
@@ -179,6 +181,12 @@ h4{text-align: center;}
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+@media only screen and (min-width: 1900px){
+  form.form-inline {
+      margin-left: 300px;
+  }
+}
+
 @media only screen and (max-width: 600px) {
   body {
       margin: 0;
