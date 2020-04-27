@@ -42,8 +42,6 @@ li a:hover:not(.active) {
         width: 100%;  /* The width is the width of the web page */
        }
 .active {
-
-
   margin-top: 0px;
   content: ""; /* This is necessary for the pseudo element to work. */
     display: block; /* This will put the pseudo element on its own line. */
@@ -70,7 +68,6 @@ body {
     overflow-x:hidden;
     overflow-y:auto;
 }
-
 
 .parallax-wrapper {
     width: 190vw;
@@ -115,10 +112,8 @@ a:hover {
   text-decoration: none;
   color:#F8333C;
 }
-#underline{width: 50%; color:#659906;}
  img{
   min-width:40%;
-
 }
 
 .col-sm-4 {
@@ -144,12 +139,13 @@ footer{
   width: 100%;
   padding-bottom: 20px;
   align-content: center;
+  color: #FFE65E;
 }
 .fa {
   padding: 10px;
   font-size: 30px;
   margin-left:20px;
-  width: 40px;
+  width: 35px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
@@ -217,9 +213,6 @@ footer{
     width:40%;
     padding-left: 10px;
 
-  }
-  #underline{
-    width:100%;
   }
   .main-content img {
     margin-left: -250px;
