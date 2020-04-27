@@ -52,7 +52,12 @@ a{
   display: block;
   padding: 10px 30px;
 }
-.main-content h2, .main-content h3, .main-content h4{
+.main-content h1, .main-content h2, .main-content h3, .main-content h4,{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #159957;
+}{
   font-weight:bold;
 }
 h1,h2,h3{color:#68A000; font-weight: 800;}
