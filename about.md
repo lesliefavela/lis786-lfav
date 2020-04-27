@@ -4,7 +4,6 @@ layout: default
 permalink: /about/
 ---
 <br>
-<span style="text-align:center;">
 # Who We Are
   The very name of this bonito establishment comes from the creative joining of "Hecho"
   (meaning made) and "Churros" (meaning delicious sweet treat that you should try &#128521; ).
@@ -15,4 +14,3 @@ permalink: /about/
 - Churros frescos and buenos ingredients!
 - A fun-loving atmosphere that is open to everyone in the churro-loving community
 <a href="/lis786-lfav/order/" id="underline">Order Now &#x2192;</a>
-</span>
