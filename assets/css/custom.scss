@@ -71,27 +71,6 @@ body {
     overflow-x:hidden;
     overflow-y:auto;
 }
-
-.parallax-wrapper {
-    width: 190vw;
-    height:30vh;
-    padding-top:0vh;
-    box-sizing: border-box;
-    transform-style: preserve-3d;
-    margin-top: -200px;
-}
-.parallax-wrapper::before {
-    content:"";
-    width: 190vw;
-    height:30vh;
-    top:0 ;
-    left:0;
-    background-color:#FFE65E;
-    position: absolute;
-    z-index: -1;
-    transform:translateZ(-1px) scale(2);
-}
-
 .content {
     width: 30%;
     margin-top:-250px;
@@ -182,7 +161,7 @@ h4{text-align: center;}
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 form.form-inline {
-    margin-left: 140px;
+    margin-left: 100px;
 }
 @media only screen and (min-width: 1900px){
   form.form-inline {
