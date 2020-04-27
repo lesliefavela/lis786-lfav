@@ -3,6 +3,7 @@ title: Hechurros Cafe
 layout: default
 ---
 <br>
+<div class="parallax-wrapper">
         <div class="content">
               <h1>Deliciosos Churros</h1>
               <p>Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
@@ -11,7 +12,7 @@ layout: default
                 <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
               </div>
         </div>
-
+</div>
 <span id="image">
 ![mexican pattern](\lis786-lfav\assets\images\churroprint.png)</span>
 ## NUEVO: Ordering Online
