@@ -78,14 +78,14 @@ body {
 }
 .crop{
   object-fit: cover;
+  object-position: -20% 0;
+
   width: 300px;
   height: 337px;
-  overflow: hidden;
+
 
 }
-.crop img{
-    clip:rect(0px,60px,200px,0px);
-}
+
 
 a {
   background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
