@@ -52,7 +52,7 @@ a{
   display: block;
   padding: 10px 30px;
 }
-h2,h3{color:#68A000;}
+h2,h3{color:#68A000; font-weight: bold;}
 body,main{background-color: #FFE65E;}
 html {
     overflow: hidden;
@@ -60,7 +60,7 @@ html {
 body {
     margin: 0;
     font-size: 26px;
-font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
     color: #B5651D;
     height: 100vh;
     perspective: 1px;
