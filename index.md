@@ -5,10 +5,15 @@ layout: default
 <br>  
 
 # Deliciosos Churros
+<div class="row">
+<div class="col-md-6">
+![churros in hand](https://www.cookingclassy.com/wp-content/uploads/2018/08/churros-55.jpg)</div>
+<div class="col-md-6">
 Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
 and dress them your way. Fresh, quality ingredients and no shortcuts.
                 <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
-
+                </div>
+</div>
 
 <span id="image">
 ![mexican pattern](\lis786-lfav\assets\images\churroprint.png)</span>
