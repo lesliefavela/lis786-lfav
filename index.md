@@ -24,6 +24,7 @@ pickup in-store. Simply click away on what you would like for your order and we'
 have it ready for you. No more waiting in line to get to snacking on some churros!
 
 ## Locations
+<iframe style="width:100%;" src="https://www.google.com/maps/place/Xurro/@41.8491839,-87.677804,15z/data=!4m5!3m4!1s0x880e2da15127d03d:0x405edbc768a1548b!8m2!3d41.8517!4d-87.6735534" width="1000" height="500" frameborder="0" allowfullscreen=""></iframe>
     <img src="https://maps.googleapis.com/maps/api/staticmap?center=Chicago,IL&zoom=13&size=600x300&maptype=roadmap&markers=color:blue%7Clabel:S%7C41.897377,-87.625101&markers=color:green%7Clabel:G%7C41.881755,-87.773651&markers=color:red%7Clabel:C%7C41.851669,-87.67358&key=AIzaSyCDG5kJCf2zAe81qZwwGLbAl-WrfeJAhwU" />
 
 - 60 N Mason Ave Chicago, IL, 60644                               (773) 287-5757
