@@ -22,10 +22,10 @@ permalink: /order/
     <a href="#">
       <img src="/lis786-lfav/assets/images/cater.png" />
     </a>
-    <p id="decription">  
-    Let us cater for your next event! From birthdays to cooperate events,
-     we are up for any catering needs. Having delicious churros suits any
-      kind of event or festivity!
+    <p id="description">  
+      Let us cater for your next event! From birthdays to cooperate events,
+       we are up for any catering needs. Having delicious churros suits any
+        kind of event or festivity!
     </p>
 
   </div>
