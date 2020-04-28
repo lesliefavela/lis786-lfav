@@ -6,16 +6,16 @@ layout: default
 
 # Deliciosos Churros
 <div class="row">
-<div class="col-md-6">
-<img style="height:150px;" src="https://www.cookingclassy.com/wp-content/uploads/2018/08/churros-55.jpg" /></div>
-<div class="col-md-6">
-Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
-and dress them your way. Fresh, quality ingredients and no shortcuts.
-                <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
-                </div>
+  <div class="col-md-6">
+    <img style="height:300px; position: right; align-items: right; " src="https://www.cookingclassy.com/wp-content/uploads/2018/08/churros-55.jpg" />
+  </div>
+  <div class="col-md-6">
+  Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
+  and dress them your way. Fresh, quality ingredients and no shortcuts.
+                  <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
+                  </div>
 </div>
 <br>
-
 
 ## NUEVO: Ordering Online
 We now have online ordering! You can now order your delicioso churros online and
