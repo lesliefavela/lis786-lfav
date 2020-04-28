@@ -24,6 +24,8 @@ pickup in-store. Simply click away on what you would like for your order and we'
 have it ready for you. No more waiting in line to get to snacking on some churros!
 
 ## Locations
+<img src="https://maps.googleapis.com/maps/api/staticmap?size=512x512&maptype=roadmap\
+&markers=size:mid%7Ccolor:red%7CSan+Francisco,CA%7COakland,CA%7CSan+Jose,CA&key=AIzaSyCDG5kJCf2zAe81qZwwGLbAl-WrfeJAhwU">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11888.119476272886!2d-87.677804!3d41.8491839!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2da15127d03d%3A0x405edbc768a1548b!2sXurro!5e0!3m2!1sen!2sus!4v1588114239080!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     <img src="https://maps.googleapis.com/maps/api/staticmap?center=Chicago,IL&zoom=13&size=600x300&maptype=roadmap&markers=color:blue%7Clabel:S%7C41.897377,-87.625101&markers=color:green%7Clabel:G%7C41.881755,-87.773651&markers=color:red%7Clabel:C%7C41.851669,-87.67358&key=AIzaSyCDG5kJCf2zAe81qZwwGLbAl-WrfeJAhwU" />
 
