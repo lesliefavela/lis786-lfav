@@ -12,7 +12,7 @@ layout: default
   <div class="col-md-6">
   Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
   and dress them your way. Fresh, quality ingredients and no shortcuts.
-  <br>
+  <br><br>
                   <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
                   </div>
 </div>
