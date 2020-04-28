@@ -5,17 +5,23 @@ permalink: /order/
 
 ---
 <br>
-# Pon la Orden
 
 <div class="row">
   <div class="col-md-6">
-<img src="/lis786-lfav/assets/images/take.png" />
-<button type="button" class="btn btn-success">Success</button>
-
+    <a href="#">
+      <img src="/lis786-lfav/assets/images/take.png" />
+    </a>
+    Order online and then pickup in store! No more waiting in line
+    to get your delicious churros. Online order is limited to current
+    locations. Churros hold limit is 1 hour.
   </div>
 
   <div class="col-md-6">
-<img src="/lis786-lfav/assets/images/cater.png" />
-<button type="button" class="btn btn-success">Success</button>
+    <a href="#">
+      <img src="/lis786-lfav/assets/images/cater.png" />
+    </a>
+    Let us cater for your next event! From birthdays to cooperate events,
+     we are up for any catering needs. Having delicious churros suits any
+      kind of event or festivity!
   </div>
 </div>
