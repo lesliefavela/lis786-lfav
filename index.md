@@ -24,7 +24,7 @@ pickup in-store. Simply click away on what you would like for your order and we'
 have it ready for you. No more waiting in line to get to snacking on some churros!
 
 ## Locations
-<img src="https://maps.googleapis.com/maps/api/staticmap?size=512x800&maptype=roadmap\
+<img id="locations" src="https://maps.googleapis.com/maps/api/staticmap?size=512x800&maptype=roadmap\
 &markers=size:mid%7Ccolor:red%7Clabel:%7C41.897377,-87.625101%7Clabel:S%7C41.881755,-87.773651%7Clabel:S%7C41.851669,-87.67358&key=AIzaSyCDG5kJCf2zAe81qZwwGLbAl-WrfeJAhwU">
 
     <img src="https://maps.googleapis.com/maps/api/staticmap?center=Chicago,IL&zoom=13&size=600x300&maptype=roadmap
