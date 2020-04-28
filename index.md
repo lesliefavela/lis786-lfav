@@ -27,9 +27,6 @@ have it ready for you. No more waiting in line to get to snacking on some churro
 <img id="locations" src="https://maps.googleapis.com/maps/api/staticmap?size=512x800&maptype=roadmap\
 &markers=size:mid%7Ccolor:red%7Clabel:%7C41.897377,-87.625101%7Clabel:S%7C41.881755,-87.773651%7Clabel:S%7C41.851669,-87.67358&key=AIzaSyCDG5kJCf2zAe81qZwwGLbAl-WrfeJAhwU">
 
-    <img src="https://maps.googleapis.com/maps/api/staticmap?center=Chicago,IL&zoom=13&size=600x300&maptype=roadmap
-    &markers=color:blue%7Clabel:S%7C41.897377,-87.625101&markers=color:green%7Clabel:G%7C41.881755,-87.773651&markers=color:red%7Clabel:C%7C41.851669,-87.67358&key=AIzaSyCDG5kJCf2zAe81qZwwGLbAl-WrfeJAhwU" />
-
 - 60 N Mason Ave Chicago, IL, 60644                               (773) 287-5757
 - 600 E Grand Ave, Chicago, IL 60611                              (630) 972-3006
 - 822 N Michigan Ave, Chicago, IL, 60611                          (312) 766-0615
