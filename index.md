@@ -7,7 +7,7 @@ layout: default
 # Deliciosos Churros
 <div class="row">
   <div class="col-md-6">
-    <img style="height:300px; position: right; align-items: right; " src="https://www.cookingclassy.com/wp-content/uploads/2018/08/churros-55.jpg" />
+    <img style="float:right; " src="https://cdn.shopify.com/s/files/1/0661/4511/articles/authentic_spanish_churros_recipe_1600x.jpeg?v=1541433119" />
   </div>
   <div class="col-md-6">
   Our food is the reason we started Hechurros. It’s too good not to share! We make Churros from scratch
