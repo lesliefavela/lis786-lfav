@@ -53,12 +53,7 @@ a{
     font-weight:bold;
 }
 h1,h2,h3{color:#68A000; font-weight: 800;}
-body{  background-image: url("https://favelalg.weebly.com/uploads/6/1/9/7/61978543/background_orig.png");
-      background-position: center;
-      background-repeat: repeat;
-}
-main{  background-color:#FFE65E;}
-
+body,main{background-color: #FFE65E;}
 html {
     overflow: hidden;
 }
@@ -68,6 +63,8 @@ body {
     font-family: 'Libre Franklin', sans-serif;
     color: #B5651D;
     height: 100vh;
+    perspective: 1px;
+    transform-style: preserve-3d;
     overflow-x:hidden;
     overflow-y:auto;
 }
