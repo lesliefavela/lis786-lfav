@@ -9,12 +9,12 @@ permalink: /order/
 
 <div class="row">
   <div class="col-md-6">
-## Takeout
+<h3>Takeout</h3>
 ![]()
   </div>
 
   <div class="col-md-6">
-## Cater
+<h3>Catering</h3>
 ![]()
   </div>
 </div>
