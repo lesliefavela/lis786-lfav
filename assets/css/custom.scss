@@ -240,7 +240,9 @@ form.form-inline {
   }
 }
 @media only screen and (max-width: 850px){
-
+  .navbar{
+    justify-content: flex-end;
+  }
 }
 @media only screen and (max-width: 600px) {
   .navbar,nav,navbar{
