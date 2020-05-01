@@ -17,16 +17,10 @@
   padding-top:100px;
 }
 .page-hechurros-cafe .page-header { height: 500px; }
-nav{
-  top: 0;
-  z-index: 100;
-	position: sticky;
-	width: 100%;}
 ul {
   list-style-type: none;
   margin: 0;
   overflow: hidden;
-  position:sticky;
   margin-top:10px;
 }
 
@@ -51,7 +45,6 @@ li a:hover {
 	border-bottom:solid 1px #ADA538;
     background-color: #FFFEED;
 }
-
 
 .navbar{
   background-color:#FFE65E;
@@ -231,7 +224,7 @@ form.form-inline {
 }
 @media only screen and (max-width: 600px) {
   img{
-    width: 30%;
+    width: 400px;
   }
   .navbar{
     justify-content: flex-end;
