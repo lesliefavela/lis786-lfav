@@ -235,6 +235,9 @@ form.form-inline {
   .btn {
       width: 20%;
   }
+  .h5, h5 {
+    font-size: 1rem;
+  }
 }
 
 @media only screen and (max-width: 600px) {
@@ -292,11 +295,17 @@ form.form-inline {
     padding-bottom: 20px;
     float: none;
 }
+.h5, h5 {
+  font-size: 1rem;
+}
 }
 
 @media only screen and (max-width: 850px){
   .navbar{
     justify-content: flex-end;
+  }
+  .h5, h5 {
+    font-size: 1rem;
   }
 }
 
