@@ -2,4 +2,4 @@
 title: Horchata
 category: drinks
 ---
-<img src="https://www.cookingclassy.com/wp-content/uploads/2019/04/horchata-6.jpg" class="img-card-top" style="height:200px; width:200px;">
+<img src="https://www.mylatinatable.com/wp-content/uploads/2020/01/Horchata-de-coco-1-400x400.jpg" class="img-card-top" style="height:200px;">
