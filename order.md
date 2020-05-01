@@ -16,7 +16,7 @@ permalink: /order/
       to get your delicious churros. Online order is limited to current
       locations. Churros hold limit is 1 hour.      
     </p>
-    <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
+    <a href="#/" id="underline">Order Now &#x2192;</a>
   </div>
 
   <div class="col-md-6">
@@ -28,6 +28,6 @@ permalink: /order/
        we are up for any catering needs. Having delicious churros suits any
         kind of event or festivity!
     </p>
-      <a href="/lis786-lfav/about/" id="underline">Mas about us &#x2192;</a>
+      <a href="#" id="underline">Order Now &#x2192;</a>
   </div>
 </div>
