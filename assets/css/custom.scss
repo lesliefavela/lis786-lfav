@@ -215,14 +215,7 @@ h4{text-align: center;}
 form.form-inline {
     margin-left: 100px;
 }
-@media only screen and (min-width: 1900px){
-  form.form-inline {
-      margin-left: 300px;
-  }
-  .navbar{
-      justify-content: center;
-  }
-}
+
 @media screen and (max-width: 42em){
 .btn {
     width: 20%;
@@ -243,17 +236,13 @@ form.form-inline {
       width: 20%;
   }
 }
-@media only screen and (max-width: 850px){
-  .navbar{
-    justify-content: flex-end;
-  }
-}
+
 @media only screen and (max-width: 600px) {
   .navbar,nav,navbar{
     justify-content: flex-end;
   }
   .churro {
-    width: 50%;
+    width: 200px;
   }
   body {
       margin: 0;
@@ -303,4 +292,19 @@ form.form-inline {
     padding-bottom: 20px;
     float: none;
 }
+}
+
+@media only screen and (max-width: 850px){
+  .navbar{
+    justify-content: flex-end;
+  }
+}
+
+@media only screen and (min-width: 1900px){
+  form.form-inline {
+      margin-left: 300px;
+  }
+  .navbar{
+      justify-content: center;
+  }
 }
