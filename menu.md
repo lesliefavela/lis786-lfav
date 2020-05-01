@@ -27,27 +27,28 @@ permalink: /menu/
                 <div class="card-body ">
                   <div class="tab-content text-center">
                     <div class="tab-pane active show" id="all">
-                    <div class="container-fluid content-row">
-
-                              {% for churro in site.churro_cafe %}   
-                                  <div class="col-sm-3">
-                                    <div class="card m-2" style="width:14rem; height:22rem;">
-                                    <h4>{{ churro.title }}</h4>
-                                    {{ churro.content }}
-                                    </div>
-                                  </div>      
-                                {% endfor %}
-                             </div>  
+                        <div class="churros">
+                            {% for churro in sorted_snacks %}
+                                  <div class="churro">
+                                      <h4>{{ churro.title }}</h4>
+                                      {{ churro.content }}
+                                  </div>
+                            {% endfor %}
+                          </div>  
                     </div>
                     <div class="tab-pane" id="snacks">
 
-                          {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
-                            {% for churro in sorted_snacks %}
-                                {% if churro.categories contains 'snacks' %}
-                                    <h4>{{ churro.title }}</h4>
-                                    {{ churro.content }}
-                                {% endif %}  
-                            {% endfor %}
+                  {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
+                  <div class="churros">
+                      {% for churro in sorted_snacks %}
+                          {% if churro.categories contains 'snacks' %}
+                            <div class="churro">
+                                <h4>{{ churro.title }}</h4>
+                                {{ churro.content }}
+                            </div>
+                          {% endif %}  
+                      {% endfor %}
+                    </div>
 
                     </div>
                     <div class="tab-pane" id="drinks">
@@ -56,7 +57,7 @@ permalink: /menu/
                         {% for churro in sorted_snacks %}
                             {% if churro.categories contains 'drinks' %}
                               <div class="churro">
-                                    <h4>{{ churro.title }}</h4>
+                                    <h5>{{ churro.title }}</h5>
                                     {{ churro.content }}
                               </div>
                             {% endif %}  
