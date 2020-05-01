@@ -48,7 +48,16 @@ p#description {
   padding-right: 50px;
   padding-bottom: 50px;
 }
-
+.churros{
+  margin: 40px;
+}
+.churro{
+  float:left;
+  width:33%;
+  box-sizing: border-box;
+  padding: 0 30px;
+  height: 450px;
+}
 .active {
   margin-top: 0px;
   content: "";
