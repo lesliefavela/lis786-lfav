@@ -222,6 +222,10 @@ form.form-inline {
       justify-content: center;
   }
 }
+@media screen and (max-width: 42em)
+.btn {
+    width: 20%;
+}
 @media only screen and (max-width:550px){
   .navbar{
     justify-content:flex-end;
