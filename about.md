@@ -13,4 +13,4 @@ permalink: /about/
 - Churros that are both delicioso and hechos just for you (yes you!) the customer!
 - Churros frescos and buenos ingredients!
 - A fun-loving atmosphere that is open to everyone in the churro-loving community
-<a href="/lis786-lfav/order/">Order Now &#x2192;</a>
+  <a style="text-align:center;" href="#/" id="underline">Order Now &#x2192;</a>
