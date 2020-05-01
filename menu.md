@@ -27,8 +27,9 @@ permalink: /menu/
                 <div class="card-body ">
                   <div class="tab-content text-center">
                     <div class="tab-pane active show" id="all">
+                    {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
                         <div class="churros">
-                            {% for churro in site.churro_cafe %}
+                            {% for churro in sorted_snacks %}
                               <div class="churro">
                                   <h5>{{ churro.title }}</h5>
                                   {{ churro.content }}
