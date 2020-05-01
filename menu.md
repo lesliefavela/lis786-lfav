@@ -33,6 +33,7 @@ permalink: /menu/
                               <div class="churro">
                                   <h5>{{ churro.title }}</h5>
                                   {{ churro.content }}
+                                  <a href="{{ churro.url }}">Eat</a>
                               </div>
                             {% endfor %}
                         </div>
