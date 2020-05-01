@@ -28,6 +28,6 @@ permalink: /order/
        we are up for any catering needs. Having delicious churros suits any
         kind of event or festivity!
     </p>
-      <a id="description" href="#" id="underline">Order Now &#x2192;</a>
+      <a style="text-align:center;" href="#" id="underline">Order Now &#x2192;</a>
   </div>
 </div>
