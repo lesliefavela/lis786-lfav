@@ -32,7 +32,7 @@ permalink: /menu/
                               {% for churro in site.churro_cafe %}   
                                   <div class="col-sm-3">
                                     <div class="card m-2" style="width:14rem; height:22rem;">
-                                    <h2>{{ churro.title }}</h2>
+                                    <h4>{{ churro.title }}</h4>
                                     {{ churro.content }}
                                     </div>
                                   </div>      
@@ -44,7 +44,7 @@ permalink: /menu/
                           {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
                             {% for churro in sorted_snacks %}
                                 {% if churro.categories contains 'snacks' %}
-                                    <h2>{{ churro.title }}</h2>
+                                    <h4>{{ churro.title }}</h4>
                                     {{ churro.content }}
                                 {% endif %}  
                             {% endfor %}
@@ -56,7 +56,7 @@ permalink: /menu/
                         {% for churro in sorted_snacks %}
                             {% if churro.categories contains 'drinks' %}
                               <div class="churro">
-                                    <h2>{{ churro.title }}</h2>
+                                    <h4>{{ churro.title }}</h4>
                                     {{ churro.content }}
                               </div>
                             {% endif %}  
