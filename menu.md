@@ -32,8 +32,7 @@ permalink: /menu/
                             {% for churro in sorted_snacks %}
                               <div class="churro">
                                   <h5>{{ churro.title }}</h5>
-                                  {{ churro.content }}
-                                  <a href="{{ churro.url }}">Eat</a>
+                                    <a href="{{ churro.url }}">{{ churro.content }}</a>
                               </div>
                             {% endfor %}
                         </div>
