@@ -17,6 +17,9 @@
   padding-top:100px;
 }
 .page-hechurros-cafe .page-header { height: 500px; }
+ul.nav.nav-tabs {
+    float: left;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -215,7 +218,9 @@ form.form-inline {
   form.form-inline {
       margin-left: 300px;
   }
-  justify-content: center;
+  .navbar{
+      justify-content: center;
+  }
 }
 @media only screen and (max-width:300px){
   .navbar{
@@ -225,6 +230,9 @@ form.form-inline {
 @media only screen and (max-width: 600px) {
   .navbar{
     justify-content: flex-end;
+  }
+  .churro {
+    width: 50%;
   }
   body {
       margin: 0;
@@ -270,7 +278,8 @@ form.form-inline {
 
   }
   .main-content img {
-width: 600px;
-padding-bottom: 20px;
+    width: 600px;
+    padding-bottom: 20px;
+    float: none;
 }
 }
