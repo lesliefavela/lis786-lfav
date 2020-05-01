@@ -223,9 +223,6 @@ form.form-inline {
   }
 }
 @media only screen and (max-width: 600px) {
-  img{
-    width: 400px;
-  }
   .navbar{
     justify-content: flex-end;
   }
@@ -273,9 +270,7 @@ form.form-inline {
 
   }
   .main-content img {
-    margin-left: -250px;
-    min-width: 200%;
-    max-height: 50%;
-    padding-top: 50px;
+width: 600px;
+padding-bottom: 20px;
 }
 }
