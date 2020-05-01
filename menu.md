@@ -28,29 +28,29 @@ permalink: /menu/
                   <div class="tab-content text-center">
                     <div class="tab-pane active show" id="all">
                         <div class="churros">
-                            {% for churro in sorted_snacks %}
-                                  <div class="churro">
-                                      <h4>{{ churro.title }}</h4>
-                                      {{ churro.content }}
-                                  </div>
+                            {% for churro in site.churro_cafe %}
+                              <div class="churro">
+                                  <h5>{{ churro.title }}</h5>
+                                  {{ churro.content }}
+                              </div>
                             {% endfor %}
-                          </div>  
-                    </div>
-                    <div class="tab-pane" id="snacks">
-
-                  {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
-                  <div class="churros">
-                      {% for churro in sorted_snacks %}
-                          {% if churro.categories contains 'snacks' %}
-                            <div class="churro">
-                                <h4>{{ churro.title }}</h4>
-                                {{ churro.content }}
-                            </div>
-                          {% endif %}  
-                      {% endfor %}
+                        </div>
                     </div>
 
+                    <div class="tab-pane" id="snacks">          
+                      {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
+                      <div class="churros">
+                          {% for churro in sorted_snacks %}
+                              {% if churro.categories contains 'snacks' %}
+                                <div class="churro">
+                                    <h5>{{ churro.title }}</h5>
+                                    {{ churro.content }}
+                                </div>
+                              {% endif %}  
+                          {% endfor %}
+                        </div>
                     </div>
+
                     <div class="tab-pane" id="drinks">
                     {% assign sorted_snacks = site.churro_cafe | sort: "category" %}
                     <div class="churros">
