@@ -10,11 +10,11 @@ along with questions on details of the event. Any questions email us at catering
   <div class="form-row">
     <div class="col-md-4 mb-3">
       <label for="validationDefault01">First name</label>
-      <input type="text" class="form-control" id="validationDefault01" placeholder="First name" value="Mark" required>
+      <input type="text" class="form-control" id="validationDefault01" placeholder="First name"  required>
     </div>
     <div class="col-md-4 mb-3">
       <label for="validationDefault02">Last name</label>
-      <input type="text" class="form-control" id="validationDefault02" placeholder="Last name" value="Otto" required>
+      <input type="text" class="form-control" id="validationDefault02" placeholder="Last name"required>
     </div>
   </div>
   <div class="form-row">
