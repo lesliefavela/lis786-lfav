@@ -31,7 +31,7 @@ permalink: /takeout/
                             {% for churro in sorted_snacks %}
                               <div class="churro">
                                   <h5>{{ churro.title }}</h5>
-                                    {{ churro.content | truncate:10, '' }}
+                                    {{ churro.content | truncate:200, '' }}
                                     <a class="btn btn-info" href="{{ churro.url | relative_url }}"><p>Order</p></a>
                               </div>
                             {% endfor %}
