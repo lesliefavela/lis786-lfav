@@ -32,7 +32,7 @@ permalink: /takeout/
                               <div class="churro">
                                   <h5>{{ churro.title }}</h5>
                                     {{ churro.content }}
-                                    <a href="churro.url"><p>ORDER</p></a>
+                                    <a class="btn btn-info" href="churro.url"><p>ORDER</p></a>
                               </div>
                             {% endfor %}
                         </div>
