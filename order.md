@@ -8,7 +8,7 @@ permalink: /order/
 
 <div class="row">
   <div class="col-md-6">
-    <a href="#">
+    <a href="{{ '/takeout/' | relative_url }}">
       <img src="/lis786-lfav/assets/images/take.png" />
     </a>
     <p id="description">
@@ -20,7 +20,7 @@ permalink: /order/
   </div>
 
   <div class="col-md-6">
-    <a href="#">
+    <a href=""{{ '/cater/' | relative_url }}">
       <img src="/lis786-lfav/assets/images/cater.png" />
     </a>
     <p id="description">  
