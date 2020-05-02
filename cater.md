@@ -15,7 +15,7 @@ along with questions on details of the event. Any questions email us at catering
     </div>
     <div class="col-md-4 mb-3">
       <label for="validationDefault02">Last name</label>
-      <input type="text" class="form-control" id="validationDefault02" placeholder="Last name"required>
+      <input type="text" class="form-control" id="validationDefault02" placeholder="Last name" required>
     </div>
   </div>
   <div class="form-row">
