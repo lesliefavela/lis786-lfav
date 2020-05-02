@@ -32,7 +32,7 @@ permalink: /takeout/
                               <div class="churro">
                                   <h5>{{ churro.title }}</h5>
                                     {{ churro.content }}
-                                    <a class="btn btn-info" href="churro.url"><p>ORDER</p></a>
+                                    <a class="btn btn-info" href="churro.url"><p>Order</p></a>
                               </div>
                             {% endfor %}
                         </div>
@@ -46,6 +46,7 @@ permalink: /takeout/
                                 <div class="churro">
                                     <h5>{{ churro.title }}</h5>
                                     {{ churro.content }}
+                                      <a class="btn btn-info" href="churro.url"><p>Order</p></a>
                                 </div>
                               {% endif %}  
                           {% endfor %}
@@ -60,6 +61,7 @@ permalink: /takeout/
                               <div class="churro">
                                     <h5>{{ churro.title }}</h5>
                                     {{ churro.content }}
+                                      <a class="btn btn-info" href="churro.url"><p>Order</p></a>
                               </div>
                             {% endif %}  
                         {% endfor %}
