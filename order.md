@@ -16,7 +16,7 @@ permalink: /order/
       to get your delicious churros. Online order is limited to current
       locations. Churros hold limit is 1 hour.      
     </p>
-    <a style="text-align:center;" href="#/" id="underline">Order Now &#x2192;</a>
+    <a style="text-align:center;"  href="{{ '/takeout/' | relative_url }}"  id="underline">Order Now &#x2192;</a>
   </div>
 
   <div class="col-md-6">
