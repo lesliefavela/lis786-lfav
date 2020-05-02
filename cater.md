@@ -52,5 +52,5 @@ along with questions on details of the event. Any questions email us at catering
       </label>
     </div>
   </div>
-  <button class="btn btn-primary" type="submit">Submit form</button>
+  <a class="btn btn-info" type="submit">Submit form</a>
 </form>
